@@ -1,2 +1,4 @@
 # SinkMC
-Organization repository of SinkMC
+Main repository of SinkMC
+
+
